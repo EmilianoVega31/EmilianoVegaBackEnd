@@ -1,0 +1,106 @@
+{"p4prankings": [{
+    "number": 1,
+    "name": "Alexander Volkanovski",
+    "nationality": "Australia",
+    "weight": 145,
+    "record": "25-1"
+    },
+    {
+        "number": 2,
+        "name": "Islam Makhachev",
+        "nationality": "Russia",
+        "weight": 155,
+        "record": "23-1"
+    },
+    {
+        "number": 3,
+        "name": "Leon Edwards",
+        "nationality": "England",
+        "class": 170,
+        "record": "20-3 (1)"
+    },
+    {
+        "number": 4,
+        "name": "Kamaru Usman",
+        "nationality": "Nigeria",
+        "weight": 170,
+        "record": "20-2"
+    },
+    {
+        "number": 5,
+        "name": "Francis Ngannou",
+        "nationality": "Cameroon",
+        "weight": 265,
+        "record": "17-3"
+    },
+    {
+        "number": 6,
+        "name": "Israel Adesanya",
+        "nationality": "Nigeria",
+        "weight": 185,
+        "record": "23-2"
+    },
+    {
+        "number": 7,
+        "name": "Charles Oliveira",
+        "nationality": "Brazil",
+        "weight": 155,
+        "record": "33-9 (1)"
+    },
+    {
+        "number": 8,
+        "name": "Alex Pereira",
+        "nationality": "Brazil",
+        "weight": 185,
+        "record": "7-1"
+    },
+    {
+        "number": 9,
+        "name": "Aljamain Sterling",
+        "nationality": "United States",
+        "weight": 135,
+        "record": "22-3"
+    },
+    {
+        "number": 10,
+        "name": "Jiri Prochazka",
+        "nationality": "Czech Republic",
+        "weight": 205,
+        "record": "29-3-1"
+    },
+    
+    {
+        "number": 11,
+        "name": "Dustin Poirier",
+        "nationality": "United States",
+        "weight": 155,
+        "record": "29-7 (1)"
+    },
+    {
+        "number": 12,
+        "name": "Deiveson Figueiredo",
+        "nationality": "Brazil",
+        "weight": 125,
+        "record": "21-2-1"
+    },
+    {
+        "number": 13,
+        "name": "Jon Jones",
+        "nationality": "United States",
+        "weight": 205,
+        "record": "26-1 (1)"
+    },
+    {
+        "number": 14,
+        "name": "Max Holloway",
+        "nationality": "United States",
+        "weight": 145,
+        "record": "23-7"
+    },
+    {
+        "number": 15,
+        "name": "Brandon Moreno",
+        "nationality": "Mexico",
+        "weight": 125,
+        "record": "20-6-2"
+    }]}
